@@ -2,6 +2,8 @@
 
 # Project Summary
 
+#### Recommended Time: <= 4 hours
+
 You have been given a code challenge to complete.
 
 1. Fork this repository to your own Github.
