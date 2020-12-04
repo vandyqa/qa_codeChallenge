@@ -15,20 +15,28 @@ You have been given a code challenge to complete.
 ## Challenge 1: Unit Test with a Switch and Iteration
 
 In the test file `calculator.test.ts`, loop through the data sets to run each
-through the `calculator` that has been imported. For each item in the data set:
-_ Do the math yourself _ Pass the terms into the right `calculator` method \*
-Compare your result and the calculator's result You should use a switch
-statement on the data set's `method` property to determine which of
-`calculator`'s methods to call, and how to do the math yourself.
+through the `calculator` that has been imported.
+
+For each item in the data set:
+
+- Do the math yourself
+- Pass the terms into the right `calculator` method
+- Compare your result and the calculator's result
+
+You should use a switch statement on the data set's `method` property to
+determine which of `calculator`'s methods to call, and how to do the math
+yourself.
 
 Your loop can exist in a test, or even better, loop within the describe block,
 but create a new test with each iteration.
 
 ## Challenge 2: Create data sets to pass each test
 
-The test `truthChecker.test.ts` needs new data sets. You can see how they are
-currently commented out. Create data for each test that will pass the test. See
-the comments in each test for clarification.
+The test `truthChecker.test.ts` needs new data sets.
+
+- You can see how they are currently commented out.
+- Create data for each test that will pass the test.
+- See the comments in each test for clarification.
 
 ## Challenge 3: Create tests for Employee Manager
 
