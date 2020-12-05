@@ -12,6 +12,8 @@ You have been given a code challenge to complete.
 1. Add and commit your changes, pushing them up to your Github.
 1. Submit a link to your updated repository to complete the challenge.
 
+---
+
 ## Challenge 1: Unit Test with a Switch and Iteration
 
 In the test file `calculator.test.ts`, loop through the data sets to run each
@@ -30,6 +32,8 @@ yourself.
 Your loop can exist in a test, or even better, loop within the describe block,
 but create a new test with each iteration.
 
+---
+
 ## Challenge 2: Create data sets to pass each test
 
 The test `truthChecker.test.ts` needs new data sets.
@@ -37,6 +41,8 @@ The test `truthChecker.test.ts` needs new data sets.
 - You can see how they are currently commented out.
 - Create data for each test that will pass the test.
 - See the comments in each test for clarification.
+
+---
 
 ## Challenge 3: Create tests for Employee Manager
 
@@ -80,6 +86,8 @@ further after that, go fot it, but it is not required.
 1. Test that when editing and then navigating away without saving does not save
    changes.
 
+---
+
 ## Submission
 
 When you are ready to submit your project - and you CAN resubmit - do the
@@ -96,6 +104,15 @@ following commands in your project.
 
 Submit a link to your Github repository, where you've pushed your changes.
 
+---
+
+## Solution
+
+You can view this repo's `solution` branch for solutions to the required pieces
+of the challenge.
+
+---
+
 ## Stretch Goals
 
 Automate additional tests in `employeeManager.test.ts` that catch bugs you've
@@ -110,11 +127,15 @@ to test Employee Manager
 - Checking the footer
 - Looking to see if on error the fields are highlighted correctly.
 
+---
+
 ## Contributions
 
 If you see a problem or a typo, please fork, make the necessary changes, and
 create a pull request so we can review your changes and merge them into the
 master repo and branch.
+
+---
 
 ## Copyright
 
